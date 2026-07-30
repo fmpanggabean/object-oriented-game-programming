@@ -1,0 +1,11 @@
+{
+  "title": "Object-Oriented Game Programming in C#",
+  "description": "GitBook Modul Pembelajaran OOGP C# untuk Mahasiswa Game Application & Technology (GAT) BINUS University",
+  "author": "Game Application & Technology BINUS University",
+  "language": "id",
+  "gitbook": ">=3.2.3",
+  "plugins": [
+    "prism",
+    "-highlight"
+  ]
+}
